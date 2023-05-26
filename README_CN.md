@@ -10,7 +10,7 @@
 
 ## 快速开始
 
-我们建议使用官方网站进行快速体验：[https://web.blurlyric.app/](https://web.blurlyric.app/)。请注意，谨防不熟悉的链接，以防止账户或隐私被盗。
+我们建议使用 [官方网站](https://web.blurlyric.app/) 进行快速体验。请注意，谨防不熟悉的链接，以防止账户或隐私被盗。
 
 ## 浏览器支持
 
@@ -30,7 +30,7 @@ BlurLyric 独立开发了一个歌词滚动算法，实现了几乎零延迟和�
 
 ## 下载最新版本
 
-请先登录 GitHub，然后在最新的工作流程中下载新版本：[https://github.com/gozaoo/BlurLyric/actions/workflows/node.js.yml](https://github.com/gozaoo/BlurLyric/actions/workflows/node.js.yml)
+请先登录 GitHub，然后在最新的 [Workflow](https://github.com/gozaoo/BlurLyric/actions/workflows/node.js.yml) 中下载新版本。
 
 ## 下载稳定版本
 
@@ -92,11 +92,11 @@ location / {
 
 ## 帮助我们
 
-您的捐赠将帮助我们支付在线服务的运营成本，网址为 [https://web.blurlyric.app/](https://web.blurlyric.app/)，并支持我们的开发工作。感谢您使用我们的产品。如果您认为我们的产品有用，请点击"Star"按钮。
+您的捐赠将帮助我们支付 [在线服务](https://web.blurlyric.app/) 的运营成本，并支持我们的开发工作。感谢您使用我们的产品。如果您认为我们的产品有用，请点击 Star 按钮。
 
 ### 有好的想法吗？
 
-如果您有任何好的建议、参考设计或开源代码，请随时通过 Pull requests 与我们分享。如果您是 UI 设计专家，但不懂编码，您可以提交问题，或将您的想法或设计发送至 [2261129603@qq.com](mailto:2261129603@qq.com) 或 [master@pafworld.top](mailto:master@pafworld.top)，或加入 [Telegram](https://t.me/pafnetwork) 群组。我们欢迎您的参与。
+如果您有任何好的建议、参考设计或开源代码，请随时通过 Pull requests 与我们分享。如果您是 UI 设计专家，但不懂编程，您可以提交 Issue，或将您的想法或设计发送至 [2261129603@qq.com](mailto:2261129603@qq.com) 或 [master@pafworld.top](mailto:master@pafworld.top)，或加入 [Telegram](https://t.me/pafnetwork) 群组。我们欢迎您的参与。
 
 ### 特别感谢以下项目为我们提供灵感、参考设计和核心代码：
 
