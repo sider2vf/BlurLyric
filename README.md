@@ -1,5 +1,3 @@
-以下是经过优化的文本：
-
 <h1 align="center"><img src="https://blurlyric.app/favicon.svg" alt="img" style="zoom:3%;" />BlurLyric</h1>
 
 <p align="center"><i>A simple, beautiful, and user-friendly third-party player for NetEase Cloud Music.</i></p>
