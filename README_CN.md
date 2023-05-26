@@ -2,7 +2,7 @@
 
 <p align="center"><i>一款简单、美观且用户友好的网易云音乐第三方播放器。</i></p>
 
-<p align="center"><a href="README.md">English</a> | <a href="README_CN.md">简体中文</a></p>
+<p align="center"><a href="README.md">English</a> | 简体中文</p>
 
 ## 许可证
 
